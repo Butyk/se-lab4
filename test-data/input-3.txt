@@ -1,0 +1,5 @@
+gt4500,2,0,2,0 
+torpedo,single #primary
+torpedo,single #secondary
+torpedo,single #primary
+torpedo,single #secondary

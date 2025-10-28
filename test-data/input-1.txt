@@ -1,0 +1,21 @@
+ gt4500,10,0,10,0
+TORPEdo,single   
+TORPEdo,all
+TORPEdo
+gt4500,10,1,10,1
+TORPEdo,single
+TORPEdo,all
+gt4500,10,0,10,0
+TORPEdo,single    
+TORPEdo,single
+TORPEdo,single
+TORPEdo,single
+TORPEdo,single
+TORPEdo,single
+gt4500,2,0,2,0
+TORPEdo,single
+TORPEdo,single
+TORPEdo,single
+TORPEdo,single
+TORPEdo,single
+TORPEDO,single
